@@ -1,6 +1,6 @@
 # blogen-admin-ui
 
-User Interface for Mizuxe (Project #3) which is a part of Brad Travery's Udemy course [Bootstrap 4 From Scratch With 5 Projects](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/overview)
+User Interface for Blogen Admin (Project #3) which is a part of Brad Travery's Udemy course [Bootstrap 4 From Scratch With 5 Projects](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/learn/v4/overview)
 
 Created to learn the what's new in BootStrap v.4.0.0 Beta.
 
